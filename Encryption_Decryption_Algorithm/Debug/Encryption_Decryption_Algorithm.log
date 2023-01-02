@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Encryption_Decryption_Algorithm\Source.cpp(278,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Encryption_Decryption_Algorithm\Source.cpp(285,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Encryption_Decryption_Algorithm\Source.cpp(303,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Encryption_Decryption_Algorithm\Source.cpp(320,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Encryption_Decryption_Algorithm\Source.cpp(329,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Encryption_Decryption_Algorithm\Source.cpp(347,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Encryption_Decryption_Algorithm\Source.cpp(348,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Encryption_Decryption_Algorithm\Source.cpp(357,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Encryption_Decryption_Algorithm\Source.cpp(376,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Encryption_Decryption_Algorithm.vcxproj -> C:\Users\D\source\repos\Encryption_Decryption_Algorithm\Debug\Encryption_Decryption_Algorithm.exe
